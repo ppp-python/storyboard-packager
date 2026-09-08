@@ -58,9 +58,9 @@ pnpm build
 
 ## 致谢与来源
 
-实际采用的依赖：感谢 [@gildas-lormeau 的 zip.js](https://github.com/gildas-lormeau/zip.js) 及其 BSD-3-Clause 许可证。本项目用它在浏览器中生成 ZIP，未复制其应用代码。
+实际采用的依赖：感谢 [@gildas-lormeau 的 zip.js](https://github.com/gildas-lormeau/zip.js) 及其 BSD-3-Clause 许可证。本项目用它在浏览器中生成 ZIP
 
-公开交互/流程概念参考（均为独立实现，未复制代码）：感谢 [@taruma 的 ShotBase](https://github.com/taruma/shotbase)、[@albozes 的 ShotBuddy](https://github.com/albozes/shotbuddy) 和 [@BerndHagen 的 Batch-File-Renamer](https://github.com/BerndHagen/Batch-File-Renamer)。[@shuffleo 的 storyboard-tool](https://github.com/shuffleo/storyboard-tool) 只参考公开交互，不复用代码或资源。
+公开交互/流程概念参考：感谢 [@taruma 的 ShotBase](https://github.com/taruma/shotbase)、[@albozes 的 ShotBuddy](https://github.com/albozes/shotbuddy) 和 [@BerndHagen 的 Batch-File-Renamer](https://github.com/BerndHagen/Batch-File-Renamer)。[@shuffleo 的 storyboard-tool](https://github.com/shuffleo/storyboard-tool) 
 
 评估但未采用：[@Touffy 的 client-zip](https://github.com/Touffy/client-zip) 与 [@clauderic 的 dnd-kit](https://github.com/clauderic/dnd-kit)。它们没有进入本项目依赖，也没有复制其代码。
 
